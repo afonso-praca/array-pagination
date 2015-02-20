@@ -1,0 +1,23 @@
+{
+  "name": "array-pagination",
+  "version": "0.1.0",
+  "description": "Simple server side pagination. Made to work with in memory arrays.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/afonso-praca/array-pagination.git"
+  },
+  "author": "Afonso Praça",
+  "bugs": {
+    "url": "https://github.com/vtex/array-pagination/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.12.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt": "~0.4.5"
+  },
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "coffee-script": "~1.9.1"
+  }
+}
